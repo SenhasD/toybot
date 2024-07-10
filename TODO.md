@@ -12,6 +12,7 @@
 + ~~reply to user messages~~
 + call functions when user message received
 + fetch user data
++ hide token
 ## Bugs
 + cannot parse data to function
 + can't call array

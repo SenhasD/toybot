@@ -7,7 +7,7 @@ const client = new Client({
     ],
 });
 
-const token = "MTIzNzA4NDkwMTUzNTM4NzcyOQ.GJIfZ_.xUd7lQgqMl9PvbKHhNtfSpt6_iLj2VV_hzfMY8"
+const token = "TOKEN"
 
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
